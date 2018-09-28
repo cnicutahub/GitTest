@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Initial text in xBug");
         System.out.println("**********************");
 
+        System.out.println("something new");
     }
 }
